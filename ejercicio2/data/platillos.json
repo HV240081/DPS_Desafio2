@@ -1,0 +1,194 @@
+[
+    {
+      "id": 1,
+      "name": "Tamales",
+      "description": "Tamales rellenos de carne y vegetales, típicos de Centroamérica.",
+      "photo": "https://images.getrecipekit.com/20221227221926-tamales-20pile.jpg?aspect_ratio=4:3&quality=90&",
+      "ingredients": ["Maíz", "Carne", "Vegetales", "Especias"],
+      "region": "Centroamérica",
+      "price": "$10",
+      "category": "Plato principal"
+    },
+    {
+      "id": 2,
+      "name": "Pupusas",
+      "description": "Tortillas rellenas de frijoles, queso y carne.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pupusas_El_Salvador_Centro_America.JPG/1024px-Pupusas_El_Salvador_Centro_America.JPG",
+      "ingredients": ["Maíz", "Frijoles", "Queso", "Carne"],
+      "region": "El Salvador",
+      "price": "$5",
+      "category": "Aperitivo"
+    },
+    {
+        "id": 3,
+        "name": "Tacos al pastor",
+        "description": "Tacos mexicanos con carne de cerdo marinada, piña, cebolla y cilantro.",
+        "photo": "https://comedera.com/wp-content/uploads/sites/9/2017/08/tacos-al-pastor-receta.jpg",
+        "ingredients": ["Tortilla", "Cerdo", "Cebolla", "Cilantro", "Tomate"],
+        "region": "México",
+        "price": "$6",
+        "category": "Plato principal"
+      },
+      {
+        "id": 4,
+        "name": "Ceviche peruano",
+        "description": "Pescado crudo marinado en jugo de limón con cebolla, cilantro y ají.",
+        "photo": "https://es.cravingsjournal.com/wp-content/uploads/2018/08/ceviche-con-leche-de-tigre-2.jpg",
+        "ingredients": ["Pescado", "Limón", "Cebolla", "Ají", "Cilantro"],
+        "region": "Perú",
+        "price": "$7",
+        "category": "Entrada"
+      },
+      {
+        "id": 5,
+        "name": "Arepas",
+        "description": "Tortas de maíz rellenas de queso, carne o aguacate, típicas de Venezuela y Colombia.",
+        "photo": "https://www.annarecetasfaciles.com/files/arepas-colombianas-815x458.jpg",
+        "ingredients": ["Harina de maíz", "Queso", "Carne", "Aguacate"],
+        "region": "Venezuela / Colombia",
+        "price": "$4",
+        "category": "Desayuno"
+      },
+      {
+        "id": 6,
+        "name": "Feijoada",
+        "description": "Estofado brasileño de frijoles negros con carne de cerdo.",
+        "photo": "https://recetasdecocina.elmundo.es/wp-content/uploads/2025/01/feijoada-1024x683.jpg",
+        "ingredients": ["Frijoles negros", "Cerdo", "Arroz", "Naranja"],
+        "region": "Brasil",
+        "price": "$9",
+        "category": "Plato principal"
+      },
+      {
+        "id": 7,
+        "name": "Mofongo",
+        "description": "Plato puertorriqueño hecho de plátanos fritos machacados con ajo y chicharrón.",
+        "photo": "https://mojo.generalmills.com/api/public/content/uMQEiKFjqES9peHd_XjtKQ_gmi_hi_res_jpeg.jpeg?v=2a180e02&t=16e3ce250f244648bef28c5949fb99ff",
+        "ingredients": ["Plátano", "Ajo", "Chicharrón", "Aceite"],
+        "region": "Puerto Rico",
+        "price": "$8",
+        "category": "Plato principal"
+      },
+      {
+        "id": 8,
+        "name": "Sancocho",
+        "description": "Sopa espesa con carne y vegetales como yuca, papa y elote.",
+        "photo": "https://mojo.generalmills.com/api/public/content/geavWbc7i0eptb2tGb-CyA_gmi_hi_res_jpeg.jpeg?v=5f30c0a4&t=16e3ce250f244648bef28c5949fb99ff",
+        "ingredients": ["Carne", "Yuca", "Papa", "Elote", "Zanahoria"],
+        "region": "Colombia / República Dominicana / Panamá",
+        "price": "$9",
+        "category": "Sopa"
+      },
+      {
+        "id": 9,
+        "name": "Baleada",
+        "description": "Tortilla de harina rellena tradicionalmente con frijoles refritos, queso y crema. También puede llevar huevo o carne.",
+        "photo": "https://imag.bonviveur.com/baleadas-hondurenas.jpg",
+        "ingredients": ["Tortilla de harina", "Frijoles", "Queso", "Crema", "Huevo", "Carne"],
+        "region": "Honduras",
+        "price": "$3",
+        "category": "Desayuno"
+      },
+      {
+        "id": 10,
+        "name": "Sushi",
+        "description": "Arroz avinagrado combinado con pescado crudo, vegetales o mariscos.",
+        "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/7f/89/e6/sushi-philadelphia-salmon.jpg?w=600&h=400&s=1",
+        "ingredients": ["Arroz", "Vinagre", "Pescado", "Vegetales", "Alga nori"],
+        "region": "Japón",
+        "price": "$15",
+        "category": "Plato principal"
+      },
+      {
+        "id": 11,
+        "name": "Croissant",
+        "description": "Panecillo hojaldrado con forma de media luna, ideal para el desayuno.",
+        "photo": "https://images.aws.nestle.recipes/original/2024_10_28T11_56_26_badun_images.badun.es_c52b4cedad29_croissant.jpg",
+        "ingredients": ["Harina", "Mantequilla", "Levadura", "Leche"],
+        "region": "Francia",
+        "price": "$2",
+        "category": "Desayuno"
+      },
+      {
+        "id": 12,
+        "name": "Pizza Margherita",
+        "description": "Pizza clásica italiana con salsa de tomate, mozzarella y albahaca fresca.",
+        "photo": "https://imag.bonviveur.com/pizza-margarita.jpg",
+        "ingredients": ["Masa de pizza", "Tomate", "Mozzarella", "Albahaca"],
+        "region": "Italia",
+        "price": "$12",
+        "category": "Plato principal"
+      },
+      {
+        "id": 13,
+        "name": "Gallo Pinto",
+        "description": "Mezcla de arroz y frijoles negros acompañada con natilla, plátano y huevo. Platillo típico de Costa Rica.",
+        "photo": "https://cdn.nutritionstudies.org/wp-content/uploads/2022/05/gallo-pinto-costa-rican-rice-and-beans-1024x683.jpg",
+        "ingredients": ["Arroz", "Frijoles negros", "Cebolla", "Pimiento", "Natilla", "Plátano", "Huevo"],
+        "region": "Costa Rica",
+        "price": "$4",
+        "category": "Desayuno"
+      },
+      {
+        "id": 14,
+        "name": "Kak’ik",
+        "description": "Sopa tradicional guatemalteca de pavo con achiote y especias mayas.",
+        "photo": "https://www.recetas-guatemala.com/base/stock/Recipe/248-image/248-image_web.jpg",
+        "ingredients": ["Pavo", "Achiote", "Tomate", "Chile", "Especias", "Cilantro"],
+        "region": "Guatemala",
+        "price": "$8",
+        "category": "Sopa"
+      },
+      {
+        "id": 15,
+        "name": "Paella",
+        "description": "Tradicional arroz español cocinado con mariscos, pollo, verduras y azafrán, originario de la región de Valencia.",
+        "photo": "https://cdn-ilddihb.nitrocdn.com/MgqZCGPEMHvMRLsisMUCAIMWvgGMxqaj/assets/images/optimized/rev-f7c1f9b/www.goya.com/wp-content/uploads/2023/10/goya-shrimp-paella.jpg",
+        "ingredients": ["Arroz", "Mariscos", "Pollo", "Pimiento", "Guisantes", "Azafrán", "Aceite de oliva"],
+        "region": "España",
+        "price": "$12",
+        "category": "Plato principal"
+      },
+      {
+        "id": 16,
+        "name": "Nacatamal",
+        "description": "Tamal nicaragüense de masa de maíz relleno de carne de cerdo, arroz, papas y verduras.",
+        "photo": "https://comedera.com/wp-content/uploads/sites/9/2023/10/shutterstock_1184455183.jpg",
+        "ingredients": ["Maíz", "Carne de cerdo", "Arroz", "Papas", "Tomate", "Cebolla"],
+        "region": "Nicaragua",
+        "price": "$6",
+        "category": "Plato principal"
+      },
+      {
+        "id": 17,
+        "name": "Rice and Beans",
+        "description": "Plato afro-caribeño típico de Belice hecho con arroz, frijoles rojos, leche de coco y especias. Se suele servir con pollo guisado.",
+        "photo": "https://familiakitchen.com/wp-content/uploads/2022/07/Belizean-Red-Beans-and-Rice-24-800x530.jpg",
+        "ingredients": ["Arroz", "Frijoles rojos", "Leche de coco", "Especias", "Pollo"],
+        "region": "Belice",
+        "price": "$7",
+        "category": "Plato principal"
+      },
+{
+  "id": 18,
+  "name": "Torta Mexicana",
+  "description": "Un sándwich mexicano grande y sustancioso, típicamente servido en un bolillo (pan blanco crujiente). Los rellenos varían ampliamente, pero a menudo incluyen carne (como carne asada, pollo deshebrado, carnitas), frijoles refritos, queso, aguacate, lechuga, tomate, cebolla y salsa.",
+  "photo": "https://th.bing.com/th/id/OIP.eFC16ffL0-LnpbTNPmFXowHaE8?w=282&h=188&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+  "ingredients": [
+    "Bolillo (pan)",
+    "Carne (opcional: carne asada, pollo, carnitas, etc.)",
+    "Frijoles refritos",
+    "Queso (Oaxaca, panela, etc.)",
+    "Aguacate",
+    "Lechuga",
+    "Tomate",
+    "Cebolla",
+    "Salsa (opcional: chipotle, jalapeño, etc.)"
+  ],
+  "region": "México",
+  "price": "$9",
+  "category": "Sándwich"
+}
+      
+  ]
+  
